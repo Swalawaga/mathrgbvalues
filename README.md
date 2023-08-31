@@ -4,3 +4,4 @@ Javascript canvas works like 0,0 is in the top left
 I added math boxes which are html elements so you can access the x and y coordinates
 you can change the red green and blue values of every pixel in the background using numbers
 Im really tired and dont feel like explaining it.
+https://htmlpreview.github.io/?https://github.com/Swalawaga/mathrgbvalues/blob/main/index.html
