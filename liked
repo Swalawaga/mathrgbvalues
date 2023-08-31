@@ -1,0 +1,35 @@
+Math.PI * Math.cos(Math.tan(Math.sin(42 * Math.PI / 180) * Math.PI / 180) * Math.PI / 180)
+Math.tan(Math.PI * 159*y*x * Math.PI / 180)*x
+Math.tan(y*y * Math.PI / 180)
+
+Math.cos(x*y*y * Math.PI / 180)*y
+Math.sin(Math.tan(x * Math.PI / 180)*y * Math.PI / 180)
+Math.sin(Math.PI * y*x * Math.PI / 180)
+
+Math.cos(Math.PI * x * Math.PI / 180)
+Math.tan(Math.tan(Math.sin(Math.cos(Math.sin(y * Math.PI / 180) * Math.PI / 180)*y * Math.PI / 180) * Math.PI / 180) * Math.PI / 180)
+Math.sin(Math.tan(x * Math.PI / 180)*y * Math.PI / 180)*x
+
+Math.cos(Math.tan(x * Math.PI / 180)*y * Math.PI / 180)*y
+
+Math.sin(y*x * Math.PI / 180)*255
+
+Math.tan(Math.sin(x * Math.PI / 180)*y * Math.PI / 180)*x
+
+Mosiac
+(Math.cos(y*x * Math.PI / 180) * 255) + 1
+Math.tan(Math.sin(185 * Math.PI / 180)*x*y*y * Math.PI / 180) * 250
+
+Math.cos(y*x*x * Math.PI / 180)
+Math.tan(y*x*x * Math.PI / 180)*x
+Math.tan(Math.tan(x*x * Math.PI / 180)*y*x * Math.PI / 180)
+
+Math.cos(Math.cos(x*y * Math.PI / 180)*x * Math.PI / 180)
+
+Math.cos(159 * Math.PI / 180)*x
+Math.cos(Math.cos(Math.sin(x * Math.PI / 180)*y * Math.PI / 180) * Math.PI / 180)*y
+Math.sin(Math.cos(Math.sin(219 * Math.PI / 180)*x * Math.PI / 180)*y*x * Math.PI / 180)*x
+
+#Matrix
+Math.tan(Math.tan(x*x * Math.PI / 180)*y*x * Math.PI / 180)
+Math.sin(Math.PI * Math.tan(Math.PI * x*y*y * Math.PI / 180) * Math.PI / 180)*255

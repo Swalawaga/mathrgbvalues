@@ -1,0 +1,26 @@
+canvas {
+  position:absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  outline: 1px solid black;
+}
+input {
+  resize:both;
+  display:flex;
+}
+/* Start Collapsable */
+details summary {
+  cursor: pointer;
+}
+summary > * {
+  display: inline;
+}
+.controls {
+  position:fixed;
+  top:20px;
+  left:20px;
+  padding: .5rem 1rem;
+  margin-bottom: 2rem;
+  outline: 5px solid black;
+}

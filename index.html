@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <canvas></canvas>
+    <details class="controls">
+      <summary>Controls</summary>
+      <div class="stuff">
+        Black and White<input type="checkbox" onchange="thing()" id="color"/>
+        Check<input type="checkbox" onchange="check = this.checked">
+        <p>Red: <button onclick="flip('r')">Flip</button>  
+          <input type="text" id="r" onchange="thing()"/>
+          <input type="text" class="scale" id="rs" onchange="thing()">
+        </p>
+        <p>Green:<button onclick="flip('g')">Flip</button>  
+          <input type="text" id="g" onchange="thing()"/>
+          <input type="text" class="scale" id="gs" onchange="thing()">
+        </p>
+        <p>Blue:<button onclick="flip('b')">Flip</button>  
+          <input type="text" id="b" onchange="thing()"/>
+          <input type="text" class="scale" id="bs" onchange="thing()">
+        </p>
+        <input type="range" min="1" max="50" value="10" id="complexity" onchange="complexity=this.value;thing()">
+        <input type="range" min="1" max="50" value="10" id="ps" onchange="ps=this.value;thing()">
+        <button onclick="b();">Thing</button>
+      </div>
+    </div>
+  <script src="script.js"></script>
+</body>
+</html>
